@@ -12,3 +12,6 @@
 
 #import <UIKit/UIKit.h>
 #import <StoreKit/StoreKit.h>
+
+@interface RNRate : NSObject <RCTBridgeModule>
+@end
